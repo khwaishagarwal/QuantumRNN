@@ -1,0 +1,8 @@
+{
+    "api_key": "YOUR_IBM_QUANTUM_API_KEY",
+    "url": "https://quantum-api.ibm.com/api",
+    "backend": "ibmq_qasm_simulator",
+    "project_id": "YOUR_PROJECT_ID",
+    "max_execution_time": 300,
+    "shots": 1024
+}
